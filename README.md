@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @radeline17
+- 👀 I’m interested in ... data visualisation and cleaning, object-oriented programming for data analysis, and applying OOP to LGBTQ research
+- 🌱 I’m currently learning ... python, SQL, and R 
+- 📫 How to reach me ... @dyke_pansy on twitter
